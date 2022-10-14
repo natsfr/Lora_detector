@@ -1,0 +1,25 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2-378541a8eb~116~ubuntu20.04.1*
+G04 #@! TF.CreationDate,2022-03-07T01:05:26+01:00*
+G04 #@! TF.ProjectId,lora_sensor,6c6f7261-5f73-4656-9e73-6f722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-03-07 01:05:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.635000X1.143000*%
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,C110*
+X116762000Y-98500000D03*
+X115238000Y-98500000D03*
+G04 #@! TD*
+G04 #@! TO.C,C107*
+X116762000Y-97000000D03*
+X115238000Y-97000000D03*
+G04 #@! TD*
+M02*
